@@ -1,3 +1,7 @@
+A simple test on how to use the react context.
+
+On the surface, it feels like it "could" replace redux.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
